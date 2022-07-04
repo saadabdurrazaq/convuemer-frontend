@@ -1,4 +1,7 @@
-# vue-passport
+# Convuemer Frontend
+
+## Project development info
+The first development is located at https://github.com/saadabdurrazaq/convuemer. But for some reasons, it needs to separated into 2 repositories. So, for the backend is now located at https://github.com/saadabdurrazaq/convuemer-backend
 
 ## Project setup
 ```
